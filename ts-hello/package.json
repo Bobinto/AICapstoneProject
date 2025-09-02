@@ -1,0 +1,15 @@
+{
+  "name": "ts-hello",
+  "version": "1.0.0",
+  "description": "Minimal TypeScript Hello World example for Moringa AI Capstone",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "@types/node": "^20.0.0"
+  }
+}
